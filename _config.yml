@@ -21,7 +21,7 @@ sass:
 author:
   name:              Richard YanDo
   url:               richardyando.github.io
-  email:             richardyandoo@egmail.com
+  email:             richardyando@gmail.com
 
 plugins:
   - jekyll-coffeescript
