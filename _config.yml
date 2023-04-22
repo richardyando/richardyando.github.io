@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               Richard YanDo
+url:                 https://richardyando.github.io
 baseurl:             ""
 
 markdown:            kramdown
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Richard YanDo
+  url:               richardyando.github.io
+  email:             richardyandoo@egmail.com
 
 plugins:
   - jekyll-coffeescript
