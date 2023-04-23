@@ -5,4 +5,4 @@ title: Impaired "Glycine"-mia in Type 2 Diabetes and Potential Mechanisms Contri
 
 [Endocrinology](https://doi.org/10.1210/en.2017-00148)
 
-coming soon
+Richard Yan-Do, Patrick E MacDonald
