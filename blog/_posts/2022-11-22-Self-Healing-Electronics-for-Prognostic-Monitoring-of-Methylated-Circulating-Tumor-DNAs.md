@@ -7,4 +7,4 @@ title: Self-Healing Electronics for Prognostic Monitoring of Methylated Circulat
 
 *Peilin Fang*, *Xianglin Ji*, Xi Zhao, __Richard Yan-Do__, Youyang Wan, Ying Wang, Yuanting Zhang, Peng Shi
 
-*italicize* = co-first author
+*italicized* = co-first author
