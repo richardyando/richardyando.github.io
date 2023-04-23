@@ -5,6 +5,6 @@ title: Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With a
 
 [Diabetes](https://doi.org/10.2337/db22-0004)
 
-Marko Gosak*, __Richard Yan-Do__*, Haopeng Lin, Patrick E MacDonald, Andraž Stožer
+*Marko Gosak*, *__Richard Yan-Do__*, Haopeng Lin, Patrick E MacDonald, Andraž Stožer
 
-* = co-first author
+*italicize* = co-first author
