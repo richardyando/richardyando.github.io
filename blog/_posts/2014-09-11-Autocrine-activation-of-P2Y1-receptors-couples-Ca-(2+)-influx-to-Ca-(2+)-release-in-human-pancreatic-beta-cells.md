@@ -7,4 +7,4 @@ title: Autocrine activation of P2Y1 receptors couples Ca (2+) influx to Ca (2+) 
 
 *Shara Khan*, *__Richard Yan-Do__*, Eric Duong, Xichen Wu, Austin Bautista, Stephen Cheley, Patrick E MacDonald, Matthias Braun
 
-*italicize* = co-first author
+*italicized* = co-first author
