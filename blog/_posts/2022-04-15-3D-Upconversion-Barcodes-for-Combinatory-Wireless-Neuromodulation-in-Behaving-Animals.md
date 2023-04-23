@@ -5,6 +5,6 @@ title: 3D Upconversion Barcodes for Combinatory Wireless Neuromodulation in Beha
 
 [Advanced Healthcare Materials](https://doi.org/10.1002/adhm.202200304)
 
-Xudong Lin*, Tianying Sun*, Minghui Tang*, Anqi Yang, __Richard Yan-Do__, Da Chen, Yaobin Gao, Xin Duan, Ji-Jung Kai, Feng Wang, Peng Shi
+*Xudong Lin*, *Tianying Sun*, *Minghui Tang*, Anqi Yang, __Richard Yan-Do__, Da Chen, Yaobin Gao, Xin Duan, Ji-Jung Kai, Feng Wang, Peng Shi
 
-* = co-first author
+*italicize* = co-first author
