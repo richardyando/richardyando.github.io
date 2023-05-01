@@ -10,3 +10,4 @@ title: Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With a
 *italicized* = co-first author
 
 * Featured on the [cover of Diabetes](https://diabetesjournals.org/diabetes/issue/71/12)!
+* 2021 12 09 - posted to [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.08.471749v1)
