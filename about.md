@@ -4,12 +4,14 @@ title: Richard YanDo PhD
 ---
 
 <p class="message">
-  I'm Richard YanDo, a Postdoctoral Researcher and Startup cofounder.
+  * Postdoctoral Researcher
+  * Startup cofounder
+  * <a href ="https://www.rdm.ox.ac.uk/people/richard-yan-do">ex-Novo Nordisk-Oxford Fellow</a>.
 </p>
 
-Calcium Imaging, Electrophysiology, Patch-clamp, and entrepreneur.
+Calcium Imaging, Electrophysiology, Patch-clamp, and Entrepreneur.
 
-Check me out at <a href="https://electro-ohmics.github.io">electro-ohmics</a>!
+Check out <a href="https://electro-ohmics.github.io">electro-ohmics</a>!
 
 <!-- * [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
 * [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
