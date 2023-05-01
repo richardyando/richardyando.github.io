@@ -8,3 +8,5 @@ title: Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With a
 *Marko Gosak*, *__Richard Yan-Do__*, Haopeng Lin, Patrick E MacDonald, Andraž Stožer
 
 *italicized* = co-first author
+
+* Featured on the [cover of Diabetes](https://diabetesjournals.org/diabetes/issue/71/12)!
