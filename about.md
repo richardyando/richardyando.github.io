@@ -5,8 +5,11 @@ title: Richard YanDo PhD
 
 <p class="message">
   * Postdoctoral Researcher
+ 
   * Startup cofounder
+ 
   * <a href ="https://www.rdm.ox.ac.uk/people/richard-yan-do">ex-Novo Nordisk-Oxford Fellow</a>.
+ 
 </p>
 
 Calcium Imaging, Electrophysiology, Patch-clamp, and Entrepreneur.
