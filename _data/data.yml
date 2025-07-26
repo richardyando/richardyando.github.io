@@ -180,8 +180,8 @@ certifications:
 
 projects:
   title: Projects
-  intro: |
-    Pharmacology
+  # intro: |
+  #   Pharmacology
   assignments:
   - title: Alpha hemolsyin pore protein
     link: "#hook"
@@ -194,8 +194,7 @@ projects:
   - title: Purinergic (P2X & P2Y) ATP receptors
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  intro: |
-    Pharmacology
+
   - title: whole islet imaging for 
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
