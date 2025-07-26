@@ -4,11 +4,11 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Richard YAN-DO
+  name: Richard YanDo
   tagline: Scientist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -49,15 +49,15 @@ sidebar:
   interests:
     title: Interests
     info:
+    - item: 3D printing
+      link:
+
+
+    - item: Swimming
+      link:
+
+
     - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
       link:
 
 
@@ -76,7 +76,7 @@ education:
   - degree: PhD in Pharmacology
     university: University of Alberta
     time: 2013 - 2018
-    details: |
+    details: |test
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -87,7 +87,7 @@ education:
   - degree: BSc with Specialization in Pharmacology
     university: University of Alberta
     time: 2009 - 2013
-    details: |
+    details: |test
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -144,8 +144,8 @@ certifications:
     start: 2019
     end: 2021
     organization: NVidia 
-    credentialid: 111-222
-    credentialurl: www.google.com
+    # credentialid: 111-222
+    credentialurl: https://www.nvidia.com/en-us/
     credentialname: NVidia 
     details: |
       Details about cert. Lorem ipsum dolor sit amet, consectetur
@@ -181,67 +181,73 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Pharmacology
   assignments:
-  - title: Velocity
+  - title: Alpha hemolsyin pore protein
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
+  - title: Glycine receptor
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
+  - title: Purinergic (P2X & P2Y) ATP receptors
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
+    live cell imaging
+  - title: whole islet imaging for 
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  # - title: Delta
+  #   link: "#"
+  #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+  title: Selected Publications
+  # intro: |
+  #   You can list your publications in this section. Lorem ipsum dolor sit
+  #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #   bibendum fringilla a eu lectus.
   papers:
   - title: Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening. 
-    link: "#"
-    authors: 1.	Guo F*, Ji X*, Xiong C, Sun H, Liang Z, Yan-Do R, Gai B, Gao F, Huang L, Li Z, Kuang BY, Shi P. 
+    link: https://doi.org/10.1038/s41467-024-53419-7 
+    authors: Guo F*, Ji X*, Xiong C, Sun H, Liang Z, Yan-Do R, Gai B, Gao F, Huang L, Li Z, Kuang BY, Shi P. 
     conference: Nat Commun. 2024 Nov 19;15(1):9985.
 
   - title: Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and Without Type 2 Diabetes.
-    link: "#"
-    authors: 4.	Gosak M*, Yan-Do R*, Lin H, MacDonald PE, Stožer A.
+    link: https://doi.org/10.2337/db22-0004 
+    authors: Gosak M*, Yan-Do R*, Lin H, MacDonald PE, Stožer A.
     conference: Diabetes. 2022 Dec 1;71(12):2584-2596.
 
   - title: A Glycine-Insulin Autocrine Feedback Loop Enhances Insulin Secretion From Human β-Cells and Is Impaired in Type 2 Diabetes. 
-    link: "#"
-    authors: 8.	Yan-Do R, Duong E, Manning Fox JE, Dai X, Suzuki K, Khan S, Bautista A, Ferdaoussi M, Lyon J, Wu X, Cheley S, MacDonald PE, Braun M. 
+    link: https://doi.org/10.2337/db15-1272
+    authors: _Yan-Do R_, Duong E, Manning Fox JE, Dai X, Suzuki K, Khan S, Bautista A, Ferdaoussi M, Lyon J, Wu X, Cheley S, MacDonald PE, Braun M. 
     conference: Diabetes. 2016 Aug;65(8):2311-21. 
 
+  - title: Autocrine activation of P2Y1 receptors couples Ca (2+) influx to Ca (2+) release in human pancreatic beta cells. 
+    link: https://doi.org/10.1007/s00125-014-3368-8
+    authors: Khan S*, Yan-Do R*, Duong E, Wu X, Bautista A, Cheley S, MacDonald PE, Braun M. 
+    conference: Diabetologia. 2014 Dec;57(12):2535-45. 
+    
 # recommendations:
 #   title: Recommendations
 #   list:
@@ -264,23 +270,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Electrophysiology
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Molecular Biology
     level: 98%
 
-  - name: Angular
+  - name: Microscopy
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Python
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Mouse handling
+    level: 75%
 
   - name: Sketch & Photoshop
     level: 60%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
