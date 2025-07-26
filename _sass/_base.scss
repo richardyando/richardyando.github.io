@@ -3,7 +3,7 @@ body {
   font-family: "Arial", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
-  font-size: 8px;
+  font-size: 12px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -59,14 +59,14 @@ p {
     color: #fff;
   }
   .name {
-    font-size: 32px;
+    font-size: 24px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 0;
@@ -115,7 +115,7 @@ p {
   }
   .education-container {
     .item {
-      margin-bottom: 15px;
+      margin-bottom: 14px;
       &:last-child {
         margin-bottom: 0;
       }
@@ -166,7 +166,7 @@ p {
   padding: 60px;
   .section-title {
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 500;
     color: darken($theme-color, 15%);
     position: relative;
