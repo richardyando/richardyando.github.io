@@ -36,8 +36,8 @@ sidebar:
 
   profile:
     title: Career Profile
-    summary: |
-      I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to 
+    info: 
+      - item: I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to 
       developed novel biotechnologies, particularly for cancer therapy.
   
   languages:
