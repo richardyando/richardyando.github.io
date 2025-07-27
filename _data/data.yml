@@ -15,8 +15,8 @@ sidebar:
   # Sidebar links
   email: example@email.com
   phone: 012 345 6789
-  timezone: Hong Kong # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  # timezone: Hong Kong # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Canadian
   website: https://richardyando.github.io # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
   # xing: alandoe
@@ -62,7 +62,8 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here 
+    I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to 
+    developed novel biotechnologies, particularly for cancer therapy.
 education:
   title: Education
   info:
@@ -88,11 +89,10 @@ experiences:
     time: 2021 - Present
     company: Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, HK
     details: |
-      Describe your role here 
+      Completed a postdoctoral fellowship jointly between COCHE and City University HK in the Biomedical Engineering in Peng Shi's lab.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy
         - Developed a high speed quantitative COVID detection method
-  - role: [Novo Nordisk – Oxford Postdoctoral Fellow](https://www.rdm.ox.ac.uk/people/richard-yan-do)
-    link: https://www.rdm.ox.ac.uk/people/richard-yan-do
+  - role: Novo Nordisk – Oxford Postdoctoral Fellow
     time: 2019 - 2021
     company: University of Oxford, UK
     details: |
