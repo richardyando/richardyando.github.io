@@ -144,7 +144,7 @@ projects:
   title: Projects
   # intro: |
   #   Pharmacology
-  # assignments:
+  assignments:
   - title: Alpha hemolsyin pore protein
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
