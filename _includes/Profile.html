@@ -1,18 +1,18 @@
-{% assign interests = site.data.data.sidebar.interests %}
-{% if interests %}
-<div class="interests-container container-block">
+{% assign Profile = site.data.data.sidebar.Profile %}
+{% if Profile %}
+<div class="Profile-container container-block">
 
   <h2 class="container-block-title">
-    {{ interests.title }}
+    {{ Profile.title }}
   </h2>
 
-  <ul class="list-unstyled interests-list">
-    {% for interest in interests.info %}
+  <ul class="list-unstyled Profile-list">
+    {% for Profile in interests.info %}
 
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% if Profile.link %}
+      <li><a href="{{ Profile.link }}">{{ Profile.item }}</a></li>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <li>{{ Profile.item }}</li>
       {% endif %}
 
     {% endfor %}
