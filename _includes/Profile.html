@@ -6,8 +6,8 @@
     {{ Profile.title }}
   </h2>
 
-  <ul class="list-unstyled Profile-list">
-    {% for Profile in interests.info %}
+  <ul class="list-unstyled interests-list">
+    {% for Profile in Profile.info %}
 
       {% if Profile.link %}
       <li><a href="{{ Profile.link }}">{{ Profile.item }}</a></li>
@@ -17,6 +17,3 @@
 
     {% endfor %}
   </ul>
-
-</div><!--//interests-->
-{% endif %}
