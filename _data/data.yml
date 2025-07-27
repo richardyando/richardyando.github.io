@@ -91,14 +91,14 @@ experiences:
     details: |
       Completed a postdoctoral fellowship jointly between COCHE and City University HK in the Biomedical Engineering in Peng Shi's lab.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy
-        - Developed a high speed quantitative COVID detection method
+        - Submitted a patent for a high speed, quantitative COVID mRNA detection using a patch clamp.
+        - Contributed to biotechology/bioengineering projects related to DNA/RNA detection & siRNA delivery.
   - role: Novo Nordisk – Oxford Postdoctoral Fellow
     time: 2019 - 2021
     company: University of Oxford, UK
     details: |
-      Describe your role here 
-        - Bullet point
-        - Bullet point
+      Work in Cecilia Lindgren's Lab at The Big Data Institute (BDI) and The Wellcome Centre for Human Genetics. Position was ended prematurely due to COVID.
+        - Inititated a high throughput CRISPR screen to discover novel gene involved with obesity.
   # - role: UI Developer
   #   time: 2012 - 2014
   #   company: Amazon, London
@@ -142,9 +142,9 @@ certifications:
 
 projects:
   title: Projects
-  intro: |
-    Pharmacology
-  assignments:
+  # intro: |
+  #   Pharmacology
+  # assignments:
   - title: Alpha hemolsyin pore protein
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
@@ -156,9 +156,7 @@ projects:
   - title: Purinergic (P2X & P2Y) ATP receptors
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  intro: |
-    tissue level imaging
-  assignments:
+
   - title: whole islet imaging for 
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
