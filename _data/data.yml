@@ -48,27 +48,27 @@ sidebar:
       level: Basic
 
   interests:
-    title: Interests
+    title: Profile
     info:
-    - item: 3D printing
-      link:
+    - item: I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to developed novel biotechnologies, particularly for cancer therapy.
+  #     link:
 
-    - item: Swimming
-      link:
+  #   - item: Swimming
+  #     link:
 
-    - item: Climbing
-      link:
+  #   - item: Climbing
+  #     link:
 
-  Profile:
-    title: Career Profile
-    info: 
-      - item: I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to developed novel biotechnologies, particularly for cancer therapy.
-
+  # Profile:
+  #   title: Career Profile
+  #   info: 
+  #     - item: 
 career-profile:
   title: Career Profile
   summary: |
     I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to 
     developed novel biotechnologies, particularly for cancer therapy.
+    
 education:
   title: Education
   info:
@@ -152,15 +152,15 @@ projects:
   assignments:
   - title: Alpha hemolsyin pore protein
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Designed RNA handcuffs to selectively express alpha hemolysin in cancer cells to aid in doxorubicin mediated cell death"
 
   - title: Glycine receptor
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Discovered glycine receptors are expressed in human beta cells and elucidated their mechanism to stimulate insulin secretiion. Also uncovered a link between impaired insulin secretion and impair glycine signaling"
 
   - title: Purinergic (P2X & P2Y) ATP receptors
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells"
 
   - title: whole islet imaging for 
     link: "#"
