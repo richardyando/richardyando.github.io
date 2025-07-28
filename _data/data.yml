@@ -13,6 +13,8 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
+  Contact:
+    title: Contact
   email: richardyando@gmail.com
   phone: 012 345 6789
   # timezone: Hong Kong # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
