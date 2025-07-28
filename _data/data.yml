@@ -53,13 +53,13 @@ sidebar:
     info:
     - item: Pharmacology
       # link:
-    - item: Islet biology & Type 2 diabetes
+    - item: Electrophysiology
       # link:
     - item: RNA biotechnology
       # link:
     - item: Calcium imaging and cellular networks
       # link:
-    - item: Electrophysiology
+    - item: Islet biology & Type 2 diabetes
       # link:
     - item: Deep learning and computer vision
       # link:
