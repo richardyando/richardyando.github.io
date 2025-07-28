@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Richard YanDo
-  tagline: Scientist
+  tagline: I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to developed novel biotechnologies, particularly for cancer therapy. 
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -95,7 +95,7 @@ experiences:
     time: 2021 - Present
     company: Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, HK
     details: |
-      Completed a postdoctoral fellowship jointly between COCHE and City University HK in the Biomedical Engineering in Peng Shi's lab.
+      Peng Shi lab. Worked jointly between COCHE and City University HK in the Department Biomedical Engineering.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy
         - Submitted a patent for a high speed, quantitative COVID mRNA detection using a patch clamp.
         - Contributed to biotechology/bioengineering projects related to DNA/RNA detection & siRNA delivery.
@@ -103,7 +103,7 @@ experiences:
     time: 2019 - 2021
     company: University of Oxford, UK
     details: |
-      Work in Cecilia Lindgren's Lab at The Big Data Institute (BDI) and The Wellcome Centre for Human Genetics. Position was ended prematurely due to COVID.
+      Cecilia Lindgren Lab. Worked between The Big Data Institute (BDI) and The Wellcome Centre for Human Genetics. Position was ended prematurely due to COVID.
         - Awarded the Novo Nordisk Postdoctoral Research Fellow in Diabetes and Metabolism in 2019 (199 760 GBP)
         - Inititated a high throughput CRISPR screen to discover novel gene involved with obesity.
   # - role: UI Developer
