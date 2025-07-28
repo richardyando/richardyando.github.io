@@ -139,11 +139,11 @@ p {
   }
 
   .languages-list {
-    margin-bottom: 0;
+    margin-bottom: 100;
     li {
       margin-bottom: 10px;
       &:last-child {
-        margin-bottom: 100;
+        margin-bottom: 0;
       }
     }
   }
