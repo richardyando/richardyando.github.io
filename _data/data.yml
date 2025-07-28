@@ -163,7 +163,7 @@ projects:
     tagline: "Designed RNA origami to selectively express alpha hemolysin in cancer cells to assist in doxorubicin mediated cell death."
 
   - title: Whole islet imaging from human donors.
-    link: ""
+    # link: ""
     tagline: "Investigate the calcium signalling dynamics in human pancreatic islets. This work was featured on the cover of Diabetes."
 
   - title: Receptor/ion channel pharmacology for human pancreatic islets (Glycine and ATP receptors).
