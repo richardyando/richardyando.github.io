@@ -35,17 +35,7 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
-
-    - idiom: Cantonese
-      level: Proficient
-
-    - idiom: Mandarin
-      level: Basic
+  
 
   interests:
     title: Profile
@@ -63,6 +53,18 @@ sidebar:
   #   title: Career Profile
   #   info: 
   #     - item: 
+languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Native
+
+    - idiom: Cantonese
+      level: Proficient
+
+    - idiom: Mandarin
+      level: Basic
+      
 career-profile:
   title: Career Profile
   summary: |
