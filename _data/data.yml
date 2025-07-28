@@ -13,7 +13,7 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
+  email: richardyando@gmail.com
   phone: 012 345 6789
   # timezone: Hong Kong # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Canadian
@@ -28,7 +28,7 @@ sidebar:
   # twitter: '@jekyllrb'
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
-  google-scholar: Google Scholar # Number-Username, e.g. 123456-alandoe
+  google-scholar: Google Scholar # I added this myself
   # mastodon: # Please include your full Mastodon link here.
   # hackerrank: # Please provide your HackerRank username.
   # leetcode: # Please provide your LeetCode username.
@@ -55,7 +55,7 @@ sidebar:
     - item: Islet biology & Type 2 diabetes
       # link:
 
-    - item: Biomedical Engineering 
+    - item: RNA biotechnology
       # link:
     - item: Calcium imaging and networks
       # link:
