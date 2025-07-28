@@ -8,7 +8,7 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Richard YanDo
+  name: Richard Yan-Do
   tagline: I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to developed novel biotechnologies, particularly for cancer therapy. 
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
