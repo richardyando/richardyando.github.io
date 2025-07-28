@@ -78,15 +78,15 @@ education:
     time: 2013 - 2018
     details: |
       Patrick MacDonald Lab.
-        - Awarded the University of Alberta Doctoral Recruitment Scholarship (10 000 CAD)
-        - 2
+#        - Awarded the University of Alberta Doctoral Recruitment Scholarship (10 000 CAD)
+#        - 2
   - degree: BSc with Specialization in Pharmacology
     university: University of Alberta, Canada
     time: 2009 - 2013
     details: |
       Matthias Braun Lab.
-        - Recieved numerous awards and scholarships
-        - Bullet point
+#        - Recieved numerous awards and scholarships
+#        - Bullet point
 
 experiences:
   title: Experiences
@@ -123,7 +123,7 @@ certifications:
   list:
   - name: Fundamentals of Deep Learning for Computer Vision
     start: 2019
-    end: 2021
+    # end: 2021
     organization: NVidia 
     credentialid: 111-222
     credentialurl: https://www.nvidia.com/en-us/
