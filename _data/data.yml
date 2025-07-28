@@ -75,18 +75,18 @@ education:
   title: Education
   info:
   - degree: PhD in Pharmacology
-    university: University of Alberta
+    university: University of Alberta, Canada
     time: 2013 - 2018
     details: |
       test.
-        - 1
+        - Awarded the University of Alberta Doctoral Recruitment Scholarship (10 000 CAD)
         - 2
   - degree: BSc with Specialization in Pharmacology
-    university: University of Alberta
+    university: University of Alberta, Canada
     time: 2009 - 2013
     details: |
       Describe your study here 
-        - Bullet point
+        - Recieved numerous awards and scholarships
         - Bullet point
 
 experiences:
@@ -105,6 +105,7 @@ experiences:
     company: University of Oxford, UK
     details: |
       Work in Cecilia Lindgren's Lab at The Big Data Institute (BDI) and The Wellcome Centre for Human Genetics. Position was ended prematurely due to COVID.
+        - Awarded the Novo Nordisk Postdoctoral Research Fellow in Diabetes and Metabolism in 2019 (199 760 GBP)
         - Inititated a high throughput CRISPR screen to discover novel gene involved with obesity.
   # - role: UI Developer
   #   time: 2012 - 2014
@@ -152,21 +153,21 @@ projects:
   # intro: |
   #   Pharmacology
   assignments:
-  - title: Alpha hemolsyin pore protein
+  - title: RNA origami biotechnology for Alpha hemolsyin pore mediated doxorubicin cancer therapy
     link: "#hook"
-    tagline: "Designed RNA handcuffs to selectively express alpha hemolysin in cancer cells to aid in doxorubicin mediated cell death"
+    tagline: "Designed RNA origami to selectively express alpha hemolysin in cancer cells to assist in doxorubicin mediated cell death"
 
-  - title: Glycine receptor
+  - title: Start-up company "Electro-Ohmics limited"
     link: "#"
-    tagline: "Discovered glycine receptors are expressed in human beta cells and elucidated their mechanism to stimulate insulin secretiion. Also uncovered a link between impaired insulin secretion and impair glycine signaling"
+    tagline: "Founder of a start up company based on the high speed RNA detection method by patch clamp. Secured start up funding from The City University HKTECH 300 (100 000 HKD) and HKSTP IDEATION (100 000 HKD)"
 
-  - title: Purinergic (P2X & P2Y) ATP receptors
+  - title: Receptor/ion channel pharmacology for human pancreatic islets (Glycine and ATP receptors)
     link: "#"
-    tagline: "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells"
+    tagline: "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells. Discovered glycine receptors are expressed in human beta cells and elucidated their mechanism to stimulate insulin secretiion. Received the Faculty of Medicine and Dentistry Med Star Award (1000 CAD) for best publication"
 
-  - title: whole islet imaging for 
+  - title: Whole islet imaging from human donors
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Investigate the calcium signalling dynamics in human pancreatic islets. This work was featured on the cover of Diabetes."
 
   # - title: Delta
   #   link: "#"
