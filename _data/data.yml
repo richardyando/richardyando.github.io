@@ -47,16 +47,18 @@ sidebar:
       level: Basic
 
   interests:
-    title: Profile
+    title: Interest
     info:
-    - item: I am a pharmacologist formally trained in islet biology and type 2 diabetes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomediical engineering to developed novel biotechnologies, particularly for cancer therapy.
-  #     link:
+    - item: Pharmacology and Electrophysiology
+      # link:
 
-  #   - item: Swimming
-  #     link:
+    - item: Islet biology & Type 2 diabetes
+      # link:
 
-  #   - item: Climbing
-  #     link:
+    - item: Biomedical Engineering 
+      # link:
+    - item: Calcium imaging and networks
+      # link:
 
   # Profile:
   #   title: Career Profile
