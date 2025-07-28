@@ -131,11 +131,11 @@ certifications:
     start: 2019
     # end: 2021
     organization: NVidia 
-    credentialid: 111-222
-    credentialurl: https://www.nvidia.com/en-us/
+    # credentialid: 111-222
+    credentialurl: https://www.nvidia.com/en-eu/training/instructor-led-workshops/fundamentals-of-deep-learning/
     credentialname: NVidia 
     details: |
-      Hands-on workshop on training deep learning models from scratch. 
+      Hands-on workshop on training deep learning models from scratch.
   # - name: Git learning
   #   start: 2019
   #   end:
