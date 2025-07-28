@@ -176,22 +176,22 @@ projects:
   #   link: "#"
   #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# oss:
-#   title: OSS Contributions
-#   intro: >
-#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   contributions:
-#   - title: Tempo
-#     link: "#"
-#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+oss:
+  title: Patent
+  # intro: >
+  #   You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+  - title: Highly Sensitive Micropore Assay for Rapid and Amplification Free Detection of COVID-19 mRNA.
+    # link: "#"
+    tagline: 1.	US Patent Application. No.63/716,325.  Filed on 5 November 2024.
 
-#   - title: Atom
-#     link: "#"
-#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  # - title: Atom
+  #   link: "#"
+  #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#   - title: Delta
-#     link: "#"
-#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  # - title: Delta
+  #   link: "#"
+  #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
   title: Selected Publications
