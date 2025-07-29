@@ -43,8 +43,7 @@ sidebar:
     
   profile:
     title: profile
-    info: |
-      test
+    info:
       - item: 3D printing
     
   
