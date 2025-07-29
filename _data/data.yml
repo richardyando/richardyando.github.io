@@ -41,10 +41,10 @@ sidebar:
   # leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
     
-  # background:
-  #   title: background
-  #   info: 
-  #     - item: 3D printing  
+  background:
+    title: background
+    details: test 
+      - item: 3D printing  
     
   
   languages:
