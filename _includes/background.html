@@ -6,11 +6,11 @@
     {{ background.title }}
   </h2>
 
-  {% if publications.intro %}
-  <div class="intro">
-    {{ publications.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
+  {% if background.details %}
+    <div class="details">
+      {{ background.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
   
   <ul class="list-unstyled background-list">
     {% for background in background.info %}
