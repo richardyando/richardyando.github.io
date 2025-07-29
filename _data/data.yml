@@ -40,8 +40,7 @@ sidebar:
     
   profile:
     title: profile
-    info: |
-    test
+    info:
       - item: |
       I am a pharmacologist formally trained in islet biology and type 2 diabetes. I was an [Novo Nordisk fellow](https://www.rdm.ox.ac.uk/people/richard-yan-do), 
       where I bridged computational biology with wet lab genetics, and initiated a high throughput genome wide CRISPR knock out screen for investigated obesity 
