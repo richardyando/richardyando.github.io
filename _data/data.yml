@@ -41,6 +41,12 @@ sidebar:
   # leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
     
+  profile:
+    title: profile
+    info: |
+      test
+    
+  
   languages:
     title: Languages
     info:
@@ -52,9 +58,6 @@ sidebar:
 
     - idiom: Mandarin
       level: Basic
-
-    - idiom:  
-      level: 
 
   interests:
     title: Interest
