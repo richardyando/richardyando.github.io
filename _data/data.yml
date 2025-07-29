@@ -43,8 +43,9 @@ sidebar:
     
   profile:
     title: profile
-    info: test
-      # - item: 3D printing
+    info: |
+      test
+      - item: 3D printing
     
   
   languages:
