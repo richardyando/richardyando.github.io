@@ -67,10 +67,10 @@ sidebar:
     - item: Deep learning and computer vision
       # link:
 
-  # Profile:
-  #   title: Career Profile
-  #   info: 
-  #     - item: 
+  Hobby:
+    title: Hobby
+    info: 
+      - item: 3D printing
 
       
 # career-profile:
