@@ -19,7 +19,7 @@
         <div class="time">{{ experience.time }}</div>
         {% if experiences.link %}
           <li><a href="{{ experiences.link }}">{{ experiences.title }}</a></li>
-        {% else %}
+        {% endfor %}
       </div><!--//upper-row-->
 
       <div class="company">{{ experience.company }}</div>
