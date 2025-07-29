@@ -67,8 +67,8 @@ sidebar:
     - item: Deep learning and computer vision
       # link:
 
-  Hobby:
-    title: Hobby
+  hobby:
+    title: hobby
     info: 
       - item: 3D printing
 
