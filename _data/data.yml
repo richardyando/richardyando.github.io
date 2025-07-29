@@ -44,7 +44,8 @@ sidebar:
     
   background:
     title: background
-    info: test
+    info: |
+    test
       - item: 3D printing
     
   
