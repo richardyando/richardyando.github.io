@@ -44,8 +44,7 @@ sidebar:
     
   background:
     title: background
-    info: >
-    test
+    info: 
       - item: 3D printing I am a pharmacologist formally trained in islet biology and type 2 diabetes. I was an [Novo Nordisk fellow](https://www.rdm.ox.ac.uk/people/richard-yan-do), 
     where I bridged computational biology with wet lab genetics, and initiated a high throughput genome wide CRISPR knock out screen for investigated obesity 
     genes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomedical engineering to developed novel 
