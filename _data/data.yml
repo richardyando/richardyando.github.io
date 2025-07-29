@@ -71,8 +71,11 @@ sidebar:
     title: hobby
     info: 
       - item: 3D printing
+        # link:
       - item: Swimming
+        # link:
       - item: Climbing
+        # link:
 
       
 # career-profile:
