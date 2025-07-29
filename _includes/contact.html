@@ -37,9 +37,10 @@
     </li>
     {% endif %}
 
-    {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+    {% if sidebar.google-scholar %}
+<!--     <li class="google-scholar"><i class="fab fa-google"></i> -->
+    <li class="google-scholar"><i class="ai ai-google-scholar ai-2x"></i>
+      <a href="https://scholar.google.com/citations?user=n8HsLIoAAAAJ&hl=en&oi=ao" target="_blank">{{ sidebar.google-scholar }}</a>
     </li>
     {% endif %}
 
@@ -55,11 +56,7 @@
     </li>
     {% endif %}
 
-    {% if sidebar.github %}
-    <li class="github"><i class="fab fa-github"></i>
-      <a href="https://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
-    </li>
-    {% endif %}
+    
 
     {% if sidebar.semantic-scholar %}
     <li class="semantic-scholar"><i class="ai ai-semantic-scholar ai-2x"></i>
@@ -117,10 +114,15 @@
     </li>
     {% endif %}
 
-    {% if sidebar.google-scholar %}
-<!--     <li class="google-scholar"><i class="fab fa-google"></i> -->
-    <li class="google-scholar"><i class="ai ai-google-scholar ai-2x"></i>
-      <a href="https://scholar.google.com/citations?user=n8HsLIoAAAAJ&hl=en&oi=ao" target="_blank">{{ sidebar.google-scholar }}</a>
+    {% if sidebar.github %}
+    <li class="github"><i class="fab fa-github"></i>
+      <a href="https://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.website %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
