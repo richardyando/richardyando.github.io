@@ -44,8 +44,9 @@ sidebar:
     
   profile:
     title: profile
-    info:
-      - item: 3D printing
+    info: |
+      pharmacology
+      # - item: 3D printing
     
   
   languages:
