@@ -26,7 +26,7 @@ sidebar:
   scopus: scopus
   github: richardyando
   Pubmed: Pubmed # add your nickname without '@' sign
-  # gitlab:
+  semantic-scholar: semantic-scholar
   # bitbucket:
   # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
   # twitter: '@jekyllrb'
