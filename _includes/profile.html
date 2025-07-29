@@ -6,6 +6,12 @@
     {{ profile.title }}
   </h2>
 
+  {% if publications.intro %}
+    <div class="intro">
+      {{ publications.intro | markdownify }}
+    </div><!--//intro-->
+  {% endif %}
+  
   <ul class="list-unstyled profile-list">
     {% for profile in profile.info %}
 
@@ -20,3 +26,4 @@
 
 </div><!--//Profile-->
 {% endif %}
+
