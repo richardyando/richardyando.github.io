@@ -10,10 +10,9 @@ sidebar:
   # Profile information
   name: Richard Yan-Do
   tagline: |
-    I am a pharmacologist formally trained in islet biology and type 2 diabetes. I was an [Novo Nordisk fellow](https://www.rdm.ox.ac.uk/people/richard-yan-do), 
-    where I bridged computational biology with wet lab genetics, and initiated a high throughput genome wide CRISPR knock out screen for investigated obesity 
-    genes. Applying my expertise in electrophysiology, molecular biology, and imaging, I transitioned to biomedical engineering to developed novel 
-    biotechnologies, most recently for cancer therapy. 
+    I am a pharmacologist formally trained in islet biology and type 2 diabetes. I am an ex-Novo Nordisk fellow, where I bridged computational biology with wet 
+    lab genetics, and initiated a high throughput genome wide CRISPR knock out screen for investigated obesity genes. Applying my expertise in electrophysiology, 
+    molecular biology, and imaging, I transitioned to biomedical engineering to developed novel biotechnologies, most recently for cancer therapy. 
     
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -42,10 +41,10 @@ sidebar:
   # leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
     
-  background:
-    title: background
-    info: 
-      - item: 3D printing I am a pharmacologist formally trained in islet biology and type 2 diabetes. I was an [Novo Nordisk fellow](https://www.rdm.ox.ac.uk/people/richard-yan-do), 
+  # background:
+  #   title: background
+  #   info: 
+  #     - item: 3D printing  
     
   
   languages:
@@ -69,11 +68,11 @@ sidebar:
       # link:
     - item: Genetic Engineering
       # link:
-    - item: Calcium imaging and cellular networks
+    - item: Calcium imaging & cellular networks
       # link:
-    - item: Islet biology & Type 2 diabetes
+    - item: Islet biology & type 2 diabetes
       # link:
-    - item: Deep learning and computer vision
+    - item: Deep learning & computer vision
       # link:
 
   hobby:
@@ -271,13 +270,13 @@ skills:
   - name: Microscopy
     level: 98%
 
-  - name: Python and HPC
+  - name: Python & HPC
     level: 85%
 
   - name: Mouse handling
     level: 75%
 
-  - name: Pymol and protein modeling
+  - name: Pymol & protein modeling
     level: 60%
 
 # footer: >
