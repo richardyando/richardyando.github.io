@@ -9,6 +9,12 @@
   <ul class="list-unstyled background-list">
     {% for background in background.info %}
 
+      {% if publications.intro %}
+      <div class="intro">
+        {{ publications.intro | markdownify }}
+      </div><!--//intro-->
+      {% endif %}
+    
       {% if background.link %}
       <li><a href="{{ background.link }}">{{ background.item }}</a></li>
       {% else %}
