@@ -42,11 +42,11 @@ sidebar:
   # leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
     
-  profile:
-    title: profile
+  background:
+    title: background
     info: |
       pharmacology
-      # - item: 3D printing
+      - item: 3D printing
     
   
   languages:
