@@ -1,18 +1,18 @@
-{% assign hobby = site.data.data.sidebar.hobby %}
-{% if hobby %}
-<div class="hobby-container container-block">
+{% assign background = site.data.data.sidebar.background %}
+{% if background %}
+<div class="background-container container-block">
 
   <h2 class="container-block-title">
-    {{ hobby.title }}
+    {{ background.title }}
   </h2>
 
-  <ul class="list-unstyled hobby-list">
-    {% for hobby in hobby.info %}
+  <ul class="list-unstyled background-list">
+    {% for background in background.info %}
 
-      {% if hobby.link %}
-      <li><a href="{{ hobby.link }}">{{ hobby.item }}</a></li>
+      {% if background.link %}
+      <li><a href="{{ background.link }}">{{ background.item }}</a></li>
       {% else %}
-      <li>{{ hobby.item }}</li>
+      <li>{{ background.item }}</li>
       {% endif %}
 
     {% endfor %}
