@@ -11,8 +11,8 @@ sidebar:
   name: Richard Yan-Do
   tagline: |
     I am a pharmacologist formally trained in islet biology and type 2 diabetes. I have industrial experience as a former Novo Nordisk-Oxford postdoctoral fellow, where I bridged computational biology with wet 
-    lab genetics. Applying my expertise in electrophysiology, molecular biology, and imaging, I cut my teeth in biomedical engineering by developing novel biotechnologies, most recently for cancer therapy. I have an 
-    entrepreneurial sp 
+    lab genetics. Applying my expertise in electrophysiology, molecular biology, and imaging, I cut my teeth in biomedical engineering by developing novel biotechnologies, most recently for cancer therapy. I am a startup
+    founder however my passion is in science and research.
     
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -114,7 +114,7 @@ experiences:
   info:
   - role: Postdoctoral Fellow
     time: 2021 - Present
-    company: Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, HK
+    company: Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), HK
     details: |
       [Peng Shi lab](https://scholars.cityu.edu.hk/en/persons/pengshi). Worked jointly between COCHE and City University HK the Department Biomedical Engineering.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy.
