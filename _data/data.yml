@@ -114,7 +114,7 @@ experiences:
   info:
   - role: Postdoctoral Fellow
     time: 2021 - Present
-    company: Centre for Cerebro-Cardiovascular Health Engineering (COCHE), HK
+    company: Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), HK
     details: |
       [Peng Shi lab](https://scholars.cityu.edu.hk/en/persons/pengshi). Worked jointly between COCHE and the City University HK Department of Biomedical Engineering.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy.
@@ -127,7 +127,7 @@ experiences:
     link: "#" ### https://www.rdm.ox.ac.uk/people/richard-yan-do
     details: |
       [Cecilia Lindgren Lab](https://www.ndm.ox.ac.uk/team/cecilia-lindgren). Worked jointly between the Big Data Institute (BDI), the Wellcome Centre for Human 
-      Genetics, and the Novo Nordisk Research Centre Oxford (NNRCO). Position was ended prematurely due to COVID.
+      Genetics, and the Novo Nordisk Research Centre Oxford (NNRCO).
         - Awarded the Novo Nordisk Postdoctoral Research Fellow in Diabetes and Metabolism in 2019 (~200 000 GBP).
         - Inititated a high throughput CRISPR screen to discover novel gene involved with obesity.
   # - role: UI Developer
