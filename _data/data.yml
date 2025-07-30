@@ -209,10 +209,8 @@ oss:
 
 publications:
   title: Selected Publications
-  # intro: |
-  #   You can list your publications in this section. Lorem ipsum dolor sit
-  #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-  #   bibendum fringilla a eu lectus.
+  intro: |
+    * = co-first author
   papers:
   - title: Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening. 
     link: https://doi.org/10.1038/s41467-024-53419-7 
