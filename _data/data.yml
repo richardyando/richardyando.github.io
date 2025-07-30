@@ -10,9 +10,10 @@ sidebar:
   # Profile information
   name: Richard Yan-Do
   tagline: |
-    I am a pharmacologist formally trained in islet biology and type 2 diabetes. I have industrial experience as a former Novo Nordisk-Oxford postdoctoral fellow, where I bridged computational biology with wet 
-    lab genetics. Applying my expertise in electrophysiology, molecular biology, and imaging, I cut my teeth in biomedical engineering by developing novel biotechnologies, most recently for cancer therapy. I am a startup
-    founder however my passion is in science and research.
+    I am a pharmacologist formally trained in islet biology and type 2 diabetes. I have industrial experience as a former Novo Nordisk-Oxford postdoctoral fellow, 
+    where I bridged computational biology with wet lab genetics. Applying my expertise in electrophysiology, molecular biology, and imaging, I cut my teeth in 
+    biomedical engineering by developing novel RNA biotechnologies, most recently for cancer therapy. I am a startup founder however my passion is for science and 
+    research.
     
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -116,10 +117,11 @@ experiences:
     time: 2021 - Present
     company: Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), HK
     details: |
-      [Peng Shi lab](https://scholars.cityu.edu.hk/en/persons/pengshi). Worked jointly between COCHE and the City University HK Department of Biomedical Engineering.
+      [Peng Shi lab](https://scholars.cityu.edu.hk/en/persons/pengshi). Worked jointly between COCHE and the City University HK Department of Biomedical 
+      Engineering.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy.
-        - Submitted a patent for a high speed, quantitative COVID mRNA detection method. Founded a start up company and secured start up funding from The City University HKTECH 300 (100 000 HKD) and 
-          HKSTP IDEATION (100 000 HKD).
+        - Submitted a patent for a high speed, quantitative COVID mRNA detection method. Founded a start up company and secured start up funding from The City 
+          University HKTECH 300 (100 000 HKD) and HKSTP IDEATION (100 000 HKD).
         - Contributed to biotechology/bioengineering projects related to DNA/RNA detection, siRNA delivery, and electrophysiology.
   - role: Novo Nordisk – Oxford Postdoctoral Fellow
     time: 2019 - 2021
