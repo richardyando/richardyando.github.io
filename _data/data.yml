@@ -24,10 +24,10 @@ sidebar:
   citizenship: Canadian
   website: https://richardyando.github.io # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
-  scopus: Scopus
+  scopus: Scopus # I added this myself
   github: richardyando
-  Pubmed: Pubmed # add your nickname without '@' sign
-  semantic-scholar: Semantic Scholar
+  Pubmed: Pubmed # I added this myself
+  semantic-scholar: Semantic Scholar # I added this myself
   # bitbucket:
   # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
   # twitter: '@jekyllrb'
@@ -38,7 +38,7 @@ sidebar:
   # mastodon: # Please include your full Mastodon link here.
   # hackerrank: # Please provide your HackerRank username.
   # leetcode: # Please provide your LeetCode username.
-  pdf: assets/Yan-Do_Richard_CV_2025.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: assets/Yan-Do_Richard_CV_2025.pdf # I added this myself
     
   # background:
   #   title: background
@@ -118,7 +118,8 @@ experiences:
     details: |
       [Peng Shi lab](https://scholars.cityu.edu.hk/en/persons/pengshi). Worked jointly between COCHE and City University HK the Department Biomedical Engineering.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy.
-        - Submitted a patent for a high speed, quantitative COVID mRNA detection using a patch clamp.
+        - Submitted a patent for a high speed, quantitative COVID mRNA detection using a patch clamp. Founded a start up company based on the high speed RNA detection by patch clamp. Secured start up funding from 
+          The City University HKTECH 300 (100 000 HKD) and HKSTP IDEATION (100 000 HKD).
         - Contributed to biotechology/bioengineering projects related to DNA/RNA detection & siRNA delivery.
   - role: Novo Nordisk – Oxford Postdoctoral Fellow
     time: 2019 - 2021
@@ -201,9 +202,7 @@ oss:
   contributions:
   - title: Highly Sensitive Micropore Assay for Rapid and Amplification Free Detection of COVID-19 mRNA.
     link: "https://www.cityu.edu.hk/hktech300/start-ups/seed-fund-teams/electro-ohmics"
-    tagline: US Patent Application. No.63/716,325.  Filed on 5 November 2024. Founded a start up company based on the high speed RNA detection by patch clamp. Secured start up funding from The City University HKTECH 300 (100 000 HKD) and HKSTP IDEATION (100 000 HKD).
-
-  # - title: Atom
+    tagline: US Patent Application. No.63/716,325.  Filed on 5 November 2024. 
   #   link: "#"
   #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
