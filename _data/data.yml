@@ -10,8 +10,7 @@ sidebar:
   # Profile information
   name: Richard Yan-Do
   tagline: |
-    I am a pharmacologist formally trained in islet biology and type 2 diabetes. I was an ex-Novo Nordisk fellow where I bridged computational biology with wet 
-    lab genetics, and initiated a high throughput genome wide CRISPR knock out screen for investigating obesity genes. Applying my expertise in electrophysiology, 
+    I am a pharmacologist formally trained in islet biology and type 2 diabetes. I am an ex-Novo Nordisk fellow where I bridged computational biology with wet lab genetics. Applying my expertise in electrophysiology, 
     molecular biology, and imaging, I cut my teeth in biomedical engineering by developing novel biotechnologies, most recently for cancer therapy. 
     
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
@@ -179,17 +178,17 @@ projects:
     # link: "#hook"
     tagline: "Designed RNA origami to selectively express alpha hemolysin in cancer cells to assist in doxorubicin mediated cell death."
 
-  - title: Whole islet imaging from human donors.
+  - title: Loss of function genetic screen.
     # link: ""
-    tagline: "Investigate the calcium signalling dynamics in human pancreatic islets. This work was featured on the cover of Diabetes."
+    tagline: "Initated CRISPR knockout screens to discover novel obesity genes. Contributed to siRNA knockout screen to find key gene compinations for cancer."
 
   - title: Receptor/ion channel pharmacology for human pancreatic islets (Glycine and ATP receptors).
     # link: "#"
     tagline: "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells. Discovered glycine receptors are expressed in human beta cells and elucidated their mechanism to stimulate insulin secretiion. Received the Faculty of Medicine and Dentistry Med Star Award (1000 CAD) for best publication."
 
-  - title: Electro-Ohmics limited
-    link: "https://www.cityu.edu.hk/hktech300/start-ups/seed-fund-teams/electro-ohmics"
-    tagline: "Founded a start up company based on the high speed RNA detection by patch clamp. Secured start up funding from The City University HKTECH 300 (100 000 HKD) and HKSTP IDEATION (100 000 HKD)."
+  - title: Whole islet imaging from human donors.
+    link: ""
+    tagline: "Investigate the calcium signalling dynamics in human pancreatic islets. This work was featured on the cover of Diabetes."
 
   # - title: Delta
   #   link: "#"
@@ -201,8 +200,8 @@ oss:
   #   You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
   - title: Highly Sensitive Micropore Assay for Rapid and Amplification Free Detection of COVID-19 mRNA.
-    # link: "#"
-    tagline: US Patent Application. No.63/716,325.  Filed on 5 November 2024.
+    link: "https://www.cityu.edu.hk/hktech300/start-ups/seed-fund-teams/electro-ohmics"
+    tagline: US Patent Application. No.63/716,325.  Filed on 5 November 2024. Founded a start up company based on the high speed RNA detection by patch clamp. Secured start up funding from The City University HKTECH 300 (100 000 HKD) and HKSTP IDEATION (100 000 HKD).
 
   # - title: Atom
   #   link: "#"
