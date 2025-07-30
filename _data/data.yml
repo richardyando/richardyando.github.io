@@ -216,27 +216,27 @@ publications:
   papers:
   - title: Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening. 
     link: https://doi.org/10.1038/s41467-024-53419-7 
-    authors: Guo F*, Ji X*, Xiong C, Sun H, Liang Z, <mark>Yan-Do R</mark>, Gai B, Gao F, Huang L, Li Z, Kuang BY, Shi P. 
+    authors: Guo F*, Ji X*, Xiong C, Sun H, Liang Z, <b>Yan-Do R</b>, Gai B, Gao F, Huang L, Li Z, Kuang BY, Shi P. 
     conference: Nat Commun. 2024 Nov 19;15(1):9985. 
 
   - title: Self-Healing Electronics for Prognostic Monitoring of Methylated Circulating Tumor DNAs. 
     link: https://doi.org/10.1002/adma.202207282
-    authors: Fang P*, Ji X*, Zhao X, <mark>Yan-Do R</mark>, Wan Y, Wang Y, Zhang Y, Shi P. 
+    authors: Fang P*, Ji X*, Zhao X, <b>Yan-Do R</b>, Wan Y, Wang Y, Zhang Y, Shi P. 
     conference: Adv Mater. 2023 Feb;35(5):e2207282. 
 
   - title: Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and Without Type 2 Diabetes.
     link: https://doi.org/10.2337/db22-0004 
-    authors: Gosak M*, <mark>Yan-Do R*</mark>, Lin H, MacDonald PE, Stožer A.
+    authors: Gosak M*, <b>Yan-Do R*</b>, Lin H, MacDonald PE, Stožer A.
     conference: Diabetes. 2022 Dec 1;71(12):2584-2596.
 
   - title: A Glycine-Insulin Autocrine Feedback Loop Enhances Insulin Secretion From Human β-Cells and Is Impaired in Type 2 Diabetes. 
     link: https://doi.org/10.2337/db15-1272
-    authors: <mark>Yan-Do R</mark>, Duong E, Manning Fox JE, Dai X, Suzuki K, Khan S, Bautista A, Ferdaoussi M, Lyon J, Wu X, Cheley S, MacDonald PE, Braun M. 
+    authors: <b>Yan-Do R</b>, Duong E, Manning Fox JE, Dai X, Suzuki K, Khan S, Bautista A, Ferdaoussi M, Lyon J, Wu X, Cheley S, MacDonald PE, Braun M. 
     conference: Diabetes. 2016 Aug;65(8):2311-21. 
 
   - title: Autocrine activation of P2Y1 receptors couples Ca (2+) influx to Ca (2+) release in human pancreatic beta cells.
     link: https://doi.org/10.1007/s00125-014-3368-8
-    authors: Khan S*, <mark>Yan-Do R*</mark>, Duong E, Wu X, Bautista A, Cheley S, MacDonald PE, Braun M. 
+    authors: Khan S*, <b>Yan-Do R*</b>, Duong E, Wu X, Bautista A, Cheley S, MacDonald PE, Braun M. 
     conference: Diabetologia. 2014 Dec;57(12):2535-45. 
     
 # recommendations:
