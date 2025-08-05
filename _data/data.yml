@@ -184,14 +184,13 @@ projects:
 
   - title: Loss of function genetic screen
     # link: ""
-    tagline: "Initated CRISPR knockout screens to discover novel obesity genes. Contributed to siRNA knockout screen to find key gene combinations for cancer."
+    tagline: "Initated CRISPR knockout screens to discover novel obesity genes. Contributed to siRNA screen to discover key cancer gene combinations ."
 
   - title: Receptor/ion channel pharmacology for human pancreatic islets (Glycine and ATP receptors)
     # link: "#"
     tagline: |
-      "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells. Discovered glycine receptors are expressed in human beta cells and elucidated their mechanism to stimulate insulin secretiion. 
-      Received the Faculty of [Medicine and Dentistry Med Star Award](https://www.ualberta.ca/en/medicine/research/funding-grants-awards/awards/medstargraduate/medstargraduatewinners.html) (1000 CAD) for best 
-      publication."
+      "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells. Discovered glycine receptors in human beta cells and elucidated its mechanism in insulin secretiion. 
+      Received the [Med Star Award](https://www.ualberta.ca/en/medicine/research/funding-grants-awards/awards/medstargraduate/medstargraduatewinners.html) (1000 CAD) for best publication."
 
   - title: Whole islet imaging from human donors
     # link: ""
