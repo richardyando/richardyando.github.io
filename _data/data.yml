@@ -120,8 +120,8 @@ experiences:
       [Peng Shi lab](https://scholars.cityu.edu.hk/en/persons/pengshi). Worked jointly between COCHE and the City University HK Department of Biomedical 
       Engineering.
         - Engineered a RNA origami method to selectvely express pore proteins in cancer cells to enhance doxorubicin therapy.
-        - Submitted a patent for a high speed, quantitative COVID mRNA detection method. Founded a start up company and secured start up funding from The City 
-          University HKTECH 300 (100 000 HKD) and HKSTP IDEATION (100 000 HKD).
+        - Submitted a patent for a high speed, quantitative COVID mRNA detection method. Founded a start up company and secured start up funding from [The City 
+          University HKTECH 300](https://www.cityu.edu.hk/hktech300/start-ups/seed-fund-teams/electro-ohmics) (100 000 HKD) and HKSTP IDEATION (100 000 HKD).
         - Contributed to biotechology/bioengineering projects related to DNA/RNA detection, siRNA delivery, and electrophysiology.
   - role: Novo Nordisk – Oxford Postdoctoral Fellow
     time: 2019 - 2021
@@ -188,11 +188,11 @@ projects:
 
   - title: Receptor/ion channel pharmacology for human pancreatic islets (Glycine and ATP receptors)
     # link: "#"
-    tagline: "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells. Discovered glycine receptors are expressed in human beta cells and elucidated their mechanism to stimulate insulin secretiion. Received the Faculty of Medicine and Dentistry Med Star Award (1000 CAD) for best publication."
+    tagline: "Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells. Discovered glycine receptors are expressed in human beta cells and elucidated their mechanism to stimulate insulin secretiion. Received the Faculty of [Medicine and Dentistry Med Star Award](https://www.ualberta.ca/en/medicine/research/funding-grants-awards/awards/medstargraduate/medstargraduatewinners.html) (1000 CAD) for best publication."
 
   - title: Whole islet imaging from human donors
     # link: ""
-    tagline: "Investigate the calcium signalling dynamics in human pancreatic islets. This work was featured on the cover of Diabetes."
+    tagline: "Investigate the calcium signalling dynamics in human pancreatic islets. This work was featured on the cover of [Diabetes](https://diabetesjournals.org/diabetes/issue/71/12)."
 
 oss:
   title: Patent
@@ -200,7 +200,7 @@ oss:
   #   You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
   - title: Highly Sensitive Micropore Assay for Rapid and Amplification Free Detection of COVID-19 mRNA
-    link: "https://www.cityu.edu.hk/hktech300/start-ups/seed-fund-teams/electro-ohmics"
+    # link: ""
     tagline: US Patent Application. No.63/716,325.  Filed on 5 November 2024. 
   #   link: "#"
   #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
