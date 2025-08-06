@@ -10,16 +10,17 @@
   </h2>
     
     {% if sidebar.email %}
-    <span class="fa-stack style="vertical-align: top;">
+<!--     <span class="fa-stack style="vertical-align: top;">
       <i class="email"><i class="fas fa-circle fa-stack-5x"></i>
       <i class="email"><i class="fas fa-envelope ai-stack-2x ai-inverse"></i>
         <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
-    </span>
-<!--     <span class="fa-stack fa-xs">
-      <li class="email"><i class="fas fa-circle fa-stack-2x"></i>
-      <li class="email"><i class="fas fa-solid fa-microscope fa-stack-1x fa-inverse"></i>
-        <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </span> -->
+    <li class="email"><span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-solid fa-microscope fa-stack-1x fa-inverse"></i>
+        <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+    </li>
+    </span>
 <!--     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li> -->
