@@ -10,10 +10,9 @@
   </h2>
     
     {% if sidebar.email %}
-    <span class="fa-stack">
+    <span class="fa-stack style="vertical-align: top;">
       <li class="fas fa-circle fa-stack-2x"></i>
-      <li class="email"><i class="fas fa-envelope"></i>
-        <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+      <li class="email"><i class="fas fa-envelope fa-inverse"></i><a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
       </li>
     </span>
 <!--     <li class="email"><i class="fas fa-envelope"></i>
