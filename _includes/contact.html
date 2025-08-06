@@ -16,9 +16,14 @@
         <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
       </li>
     </span> -->
-    <li class="email"><i class="fas fa-envelope"></i>
+    <span class="fa-stack fa-xs">
+      <li class="email"><i class="fas fa-circle fa-stack-2x"></i>
+      <li class="email"><i class="fas fa-solid fa-microscope fa-stack-1x fa-inverse"></i>
+        <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+    </span>
+<!--     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
-    </li>
+    </li> -->
     {% endif %}
 
     {% if sidebar.phone %}
