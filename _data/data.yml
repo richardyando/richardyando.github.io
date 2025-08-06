@@ -266,11 +266,11 @@ skills:
   - name: Electrophysiology
     level: 98%
 
-  - name: Molecular Biology
-    level: 98%
-
   - name: Microscopy
     level: 98%
+
+  - name: Molecular Biology
+    level: 90%
 
   - name: Python & HPC
     level: 85%
