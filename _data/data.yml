@@ -100,8 +100,8 @@ education:
     time: 2013 - 2018
     details: |
       [Patrick MacDonald Lab](https://bcell.org). 
-        - Investigated neurotransmitter pharmacology in human islets from clinical and research donors. 
-        - Analyzed calcium dynamics in intact humans islets.
+#        - Investigated neurotransmitter pharmacology in human islets from clinical and research donors. 
+#        - Analyzed calcium dynamics in intact humans islets.
 #        - Awarded the University of Alberta Doctoral Recruitment Scholarship (10 000 CAD)
 #        - 2
   - degree: BSc with Specialization in Pharmacology
