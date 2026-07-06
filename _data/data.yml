@@ -220,12 +220,12 @@ publications:
   papers:
   - title: RNA Handcuffs for Precision Combinatory Cancer Therapy.
     # link: https://doi.org/10.1007/s00125-014-3368-8
-    authors: <mark>Richard Yan-Do*<mark>, Matthew Chamberlin*, Fang Su, Lei Lei, Cheuk Yin Li, Chuxiao Xiong, Xingdao He, Xi Zhao, Jin Qu, Linfeng Huang, Yi Kuang, Isaiah Tuvia Arkin, Yong Yang, Peng Shi. 
+    authors: <mark>Yan-Do R*</mark>, Chamberlin M*, Su F, Lei L, Li CY, Xiong CX, He XD , Zhao X, Qu J, Huang LF, Kuang Y, Arkin IT, Yang Y, Shi P. 
     conference: Under revision at Nat. Biotechnol. 
 
   - title: Sequencing-free Tissue-wide Spatial Profiling of Post-transcriptional Regulations. 
     link: https://doi.org/10.1101/2022.12.11.519542
-    authors: Xianglin Ji*, Peilin Fang*, Xi Zhao, Chuanyin Xiong, Qi Yang, Youyang Wan, Zixun Wang, Lin Qi, Linfeng Huang, Wenjun Zhang, Xin Wang, <mark>Richard Yan-Do<mark>, Jia Ke, Chenjie Xu, Peng Shi. 
+    authors: Ji X*, Fang P*, Zhao X, Xiong CY, Yang Q, Wan YY, Wang ZX, Qi L, Huang LF, Zhang WJ, Wang X, <mark>Yan-Do R</mark>, Ke J, Xu CJ, Shi P. 
     conference: Accepted at Nat Biomed Eng. 
     
   - title: Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening. 
