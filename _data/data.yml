@@ -233,11 +233,6 @@ publications:
     authors: Guo F*, Ji X*, Xiong C, Sun H, Liang Z, <mark>Yan-Do R</mark>, Gai B, Gao F, Huang L, Li Z, Kuang BY, Shi P. 
     conference: Nature Communications. 2024 Nov 19;15(1):9985. 
 
-  # - title: Self-Healing Electronics for Prognostic Monitoring of Methylated Circulating Tumor DNAs. 
-  #   link: https://doi.org/10.1002/adma.202207282
-  #   authors: Fang P*, Ji X*, Zhao X, <mark>Yan-Do R</mark>, Wan Y, Wang Y, Zhang Y, Shi P. 
-  #   conference: Advanced Materials. 2023 Feb;35(5):e2207282. 
-
   - title: Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and Without Type 2 Diabetes.
     link: https://doi.org/10.2337/db22-0004 
     authors: Gosak M*, <mark>Yan-Do R*</mark>, Lin H, MacDonald PE, Stožer A.
@@ -247,6 +242,11 @@ publications:
     link: https://doi.org/10.2337/db15-1272
     authors: <mark>Yan-Do R</mark>, Duong E, Manning Fox JE, Dai X, Suzuki K, Khan S, Bautista A, Ferdaoussi M, Lyon J, Wu X, Cheley S, MacDonald PE, Braun M. 
     conference: Diabetes. 2016 Aug;65(8):2311-21. 
+
+  # - title: Self-Healing Electronics for Prognostic Monitoring of Methylated Circulating Tumor DNAs. 
+  #   link: https://doi.org/10.1002/adma.202207282
+  #   authors: Fang P*, Ji X*, Zhao X, <mark>Yan-Do R</mark>, Wan Y, Wang Y, Zhang Y, Shi P. 
+  #   conference: Advanced Materials. 2023 Feb;35(5):e2207282. 
     
 # recommendations:
 #   title: Recommendations
