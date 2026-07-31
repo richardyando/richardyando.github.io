@@ -228,8 +228,8 @@ publications:
 
   - title: Sequencing-free Tissue-wide Spatial Profiling of Post-transcriptional Regulations. 
     link: https://doi.org/10.1038/s41551-026-01745-0
-    authors: Ji X*, Fang P*, Zhao X, Xiong CY, Yang Q, Wan YY, Wang ZX, Qi L, Huang LF, Zhang WJ, Wang X, <mark>Yan-Do R</mark>, Ke J, Xu CJ, Shi P. 
-    conference: Accepted at Nature Biomedical Engineering (In Press). 
+    authors: Ji X*, Fang P*, Wan Y*, Zhao X*, Xiong C*, Guo F*, Yang Q, <mark>Yan-Do R</mark>, Qi L, Xu C, Wang X, Huang L, Zhang W, Wang Z, Ke J, Shi P. 
+    conference: In Press at Nature Biomedical Engineering. 
     
   - title: Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening. 
     link: https://doi.org/10.1038/s41467-024-53419-7 
