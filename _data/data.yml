@@ -118,15 +118,16 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Research Scientist
-    time: 2025-2026
-    company: iIDEAS, HK
-    details: |
-      Start-up medical technology company developing minimally invasive endoscopic bariatric surgery for diabetes.
-        - Managed human clinical trials for an endoscopic procedure for the treatment of diabetes.
-        - Liaised with the FDA for investigational device exemption (IDE), good laboratory practice (GLP) animal studies, and 510(k) approval for medical devices.
+  # - role: Research Scientist
+  #   time: 2025-2026
+  #   company: iIDEAS, HK
+  #   details: |
+  #     Start-up medical technology company developing minimally invasive endoscopic bariatric surgery for diabetes.
+  #       - Managed human clinical trials for an endoscopic procedure for the treatment of diabetes.
+  #       - Liaised with the FDA for investigational device exemption (IDE), good laboratory practice (GLP) animal studies, and 510(k) approval for medical devices.
   - role: Postdoctoral Fellow
     time: 2021 - Present
+    # time: 2021 - 2025
     company: Centre for Cerebro-Cardiovascular Health Engineering (COCHE), HK
     details: |
       [Peng Shi lab](https://scholars.cityu.edu.hk/en/persons/pengshi). Worked jointly between COCHE and the City University HK Department of Biomedical 
