@@ -3,7 +3,7 @@ body {
   font-family: "Arial", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
-  font-size: 6px; /* 12 or 14 */
+  font-size: 9px; /* 12 or 14 */
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -59,7 +59,7 @@ p {
     color: #fff;
   }
   .name {
-    font-size: 24px; /* 24 or 28 */
+    font-size: 18px; /* 24 or 28 */
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
@@ -94,7 +94,7 @@ p {
     .fab,
     .far {
       margin-right: 5px;
-      font-size: 12px; /* 12 or 14 */
+      font-size: 9px; /* 12 or 14 */
       vertical-align: middle;
     }
     li {
@@ -109,7 +109,7 @@ p {
   }
   .container-block-title {
     text-transform: uppercase;
-    font-size: 14px; /* 14 or 18 */
+    font-size: 9px; /* 14 or 18 */
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 15px;
@@ -121,7 +121,7 @@ p {
   }
   .education-container {
     .item {
-      margin-bottom: 12px; /* 12 or 14 */
+      margin-bottom: 9px; /* 12 or 14 */
       &:last-child {
         margin-bottom: 0;
       }
@@ -182,7 +182,7 @@ p {
   padding: 60px;
   .section-title {
     text-transform: uppercase;
-    font-size: 14px; /* 14 or 18 */
+    font-size: 12px; /* 14 or 18 */
     font-weight: 500;
     color: darken($theme-color, 15%);
     position: relative;
