@@ -115,27 +115,27 @@ p {
     margin-bottom: 15px; 
   }
   .degree {
-    font-size: 14px; /* 12 or 14 */
+    font-size: 12px; /* 12 or 14 */
     margin-top: 0;
-    margin-bottom: 12px; /* 12 or 14 */
+    margin-bottom: 0px; /* 0 or 12 */
   }
   .education-container {
     .item {
       margin-bottom: 12px; /* 12 or 14 */
       &:last-child {
-        margin-bottom: 12; /* 0 or 12 */
+        margin-bottom: 0; /* 0 or 12 */
       }
     }
     .meta {
       color: rgba(256, 256, 256, 0.6);
-      // font-weight: 500;
-      margin-bottom: 12px; /* 0 or 12 */
+      font-weight: 500;
+      margin-bottom: 0px; /* 0 or 12 */
       margin-top: 0;
     }
     .time {
       color: rgba(256, 256, 256, 0.6);
-      // font-weight: 500;
-      margin-bottom: 12px; /* 0 or 12 */
+      font-weight: 500;
+      margin-bottom: 0px; /* 0 or 12 */
     }
   }
   .languages-container {
