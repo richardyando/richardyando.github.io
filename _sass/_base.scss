@@ -236,7 +236,7 @@ p {
   }
 
   .project-title {
-    font-size: 15px; /* 12 or 14 */
+    font-size: 12px; /* 12 or 14 */
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
@@ -247,7 +247,7 @@ p {
       margin-bottom: 30px;
     }
     .item {
-      margin-bottom: 15px;
+      margin-bottom: 12px;/* 12 or 14 */
     }
   }
   .oss-section {
@@ -291,7 +291,7 @@ p {
     margin-bottom: 12px;
   }
   .level-bar {
-    height: 14px;
+    height: 12px;
     background: $smoky-white;
   }
   .level-bar-inner {
