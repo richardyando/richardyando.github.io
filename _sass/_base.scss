@@ -105,7 +105,7 @@ p {
     }
   }
   .container-block {
-    padding: 30px;
+    padding: 50px;  /* 30 or 50 */
   }
   .container-block-title {
     text-transform: uppercase;
@@ -127,13 +127,13 @@ p {
       }
     }
     .meta {
-      // color: rgba(256, 256, 256, 0.6);
+      color: rgba(256, 256, 256, 0.6);
       // font-weight: 500;
       margin-bottom: 10px; /* 0 or 12 */
       margin-top: 0;
     }
     .time {
-      // color: rgba(256, 256, 256, 0.6);
+      color: rgba(256, 256, 256, 0.6);
       // font-weight: 500;
       margin-bottom: 10px; /* 0 or 12 */
     }
