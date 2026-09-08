@@ -89,7 +89,7 @@ sidebar:
   #     - item: Climbing
   #       # link:
   hobby:
-    title: Certificate
+    title: Certificates
     info: 
       - item: Fundamentals of Deep Learning for Computer Vision
         link: https://www.nvidia.com/en-eu/training/instructor-led-workshops/fundamentals-of-deep-learning/
