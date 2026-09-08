@@ -79,15 +79,20 @@ sidebar:
     - item: Deep learning & computer vision
       # link:
 
+  # hobby:
+  #   title: hobbies
+  #   info: 
+  #     - item: 3D printing
+  #       # link:
+  #     - item: Swimming
+  #       # link:
+  #     - item: Climbing
+  #       # link:
   hobby:
-    title: hobbies
+    title: Certificate
     info: 
-      - item: 3D printing
-        # link:
-      - item: Swimming
-        # link:
-      - item: Climbing
-        # link:
+      - item: Fundamentals of Deep Learning for Computer Vision
+        link: https://www.nvidia.com/en-eu/training/instructor-led-workshops/fundamentals-of-deep-learning/
 
 # career-profile:
 #   title: Career Profile
@@ -118,13 +123,13 @@ education:
 experiences:
   title: Experiences
   info:
-  # - role: Research Scientist
-  #   time: 2025-2026
-  #   company: iIDEAS, HK
-  #   details: |
-  #     Start-up medical technology company developing minimally invasive endoscopic bariatric surgery for diabetes.
-  #       - Managed human clinical trials for an endoscopic procedure for the treatment of diabetes.
-  #       - Liaised with the FDA for investigational device exemption (IDE), good laboratory practice (GLP) animal studies, and 510(k) approval for medical devices.
+  - role: Research Scientist
+    time: 2025-2026
+    company: iIDEAS, HK
+    details: |
+      Start-up medical technology company developing minimally invasive endoscopic bariatric surgery for diabetes.
+        - Managed human clinical trials for an endoscopic procedure for the treatment of diabetes.
+        - Liaised with the FDA for investigational device exemption (IDE), good laboratory practice (GLP) animal studies, and 510(k) approval for medical devices.
   - role: Postdoctoral Fellow
     time: 2021 - Present
     # time: 2021 - 2025
