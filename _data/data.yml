@@ -189,7 +189,7 @@ projects:
     # link: ""
     tagline: "Initated CRISPR KO screens to discover obesity genes. Contributed to siRNA screen to discover key cancer gene combinations."
 
-  - title: Receptor/ion channel pharmacology for human pancreatic islets (Glycine and ATP receptors)
+  - title: Receptor/ion channel pharmacology for human pancreatic islets
     # link: "#"
     tagline: |
       Investigated P2X and P2Y mechanism for stimulating insulin in human beta cells. Discovered glycine receptors in human beta cells and elucidated its mechanism in insulin secretiion. 
@@ -227,7 +227,6 @@ publications:
   - title: Sequencing-free Tissue-wide Spatial Profiling of Post-transcriptional Regulations. 
     link: https://doi.org/10.1038/s41551-026-01745-0
     authors: Ji X*, Fang P*, Wan Y*, Zhao X*, Xiong C*, Guo F*, Yang Q, <mark> Yan-Do R </mark>, Qi L, Xu C, Wang X, Huang L, Zhang W, Wang Z, Ke J, Shi P. 
-    # authors: Ji X*, Fang P*, Wan Y*, Zhao X*, Xiong C*, Guo F*, Yang Q, <mark>Yan-Do R</mark>, Qi L, Xu C, Wang X, Huang L, Zhang W, Wang Z, Ke J, Shi P. 
     conference: <u>Nature Biomedical Engineering</u>. in press. PMID:42521808.
     
   - title: Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening. 
