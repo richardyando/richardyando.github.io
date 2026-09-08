@@ -9,8 +9,8 @@
 
     {% for graduation in education.info %}
     <div class="item">
-      <h2 class="degree">{{ graduation.degree }}</h2>
-      <h3 class="meta">{{ graduation.university }}</h3>
+      <div class="degree">{{ graduation.degree }}</div>
+      <div class="meta">{{ graduation.university }}</div>
       <div class="time">{{ graduation.time }}</div>
       <div class="details">{{ graduation.details | markdownify }}</div>
     </div><!--//item-->
@@ -34,7 +34,7 @@
       <div class="meta">
 
         <div class="upper-row">
-          <h2 class="degree">{{ graduation.degree }}</h2>
+          <div class="degree">{{ graduation.degree }}</div>
           <div class="time">{{ graduation.time }}</div>
         </div><!--//upper-row-->
 
