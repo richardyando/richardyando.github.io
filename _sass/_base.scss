@@ -44,7 +44,7 @@ p {
 }
 
 .sidebar-wrapper {
-  grid-column: span 3;
+  grid-column: span 2.5; /* 2.5 or 3 */
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
@@ -176,7 +176,7 @@ p {
 }
 
 .main-wrapper {
-  grid-column: span 8; /* 7 or 10 */
+  grid-column: span 7.5; /* 7 or 7.5 */
   order: $resume-order;
   background: #fff;
   padding: 60px;
