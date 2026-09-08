@@ -123,19 +123,19 @@ p {
     .item {
       margin-bottom: 12px; /* 12 or 14 */
       &:last-child {
-        margin-bottom: 0;
+        margin-bottom: 12; /* 0 or 12 */
       }
     }
     .meta {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
-      margin-bottom: 0px;
+      margin-bottom: 12px; /* 0 or 12 */
       margin-top: 0;
     }
     .time {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
-      margin-bottom: 0px;
+      margin-bottom: 12px; /* 0 or 12 */
     }
   }
   .languages-container {
@@ -149,7 +149,7 @@ p {
     li {
       margin-bottom: 12px; /* 12 or 14 */
       &:last-child {
-        margin-bottom: 0;
+        margin-bottom: 12; /* 0 or 12 */
       }
     }
   }
@@ -182,7 +182,7 @@ p {
   padding: 60px;
   .section-title {
     text-transform: uppercase;
-    font-size: 12px; /* 14 or 18 */
+    font-size: 15px; /* 14 or 18 */
     font-weight: 500;
     color: darken($theme-color, 15%);
     position: relative;
