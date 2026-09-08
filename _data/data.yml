@@ -152,28 +152,28 @@ experiences:
         - Inititated a high throughput CRISPR screen to discover novel gene involved with obesity.
 
 
-certifications:
-  title: Certifications
-  list:
-  - name: Fundamentals of Deep Learning for Computer Vision
-    start: 2019
-    # end: 2021
-    organization: NVidia 
-    # credentialid: 111-222
-    credentialurl: https://www.nvidia.com/en-eu/training/instructor-led-workshops/fundamentals-of-deep-learning/
-    credentialname: NVidia 
-    details: |
-      Hands-on workshop on training deep learning models from scratch.
-  # - name: Git learning
-  #   start: 2019
-  #   end:
-  #   organization: Microsoft
-  #   credentialid: 111-222
-  #   credentialurl: www.github.com
-  #   credentialname: Github
-  #   details: |
-  #     Older certification. Lorem ipsum dolor sit amet, consectetur
-  #     adipiscing elit.
+# certifications:
+#   title: Certifications
+#   list:
+#   - name: Fundamentals of Deep Learning for Computer Vision
+#     start: 2019
+#     # end: 2021
+#     organization: NVidia 
+#     # credentialid: 111-222
+#     credentialurl: https://www.nvidia.com/en-eu/training/instructor-led-workshops/fundamentals-of-deep-learning/
+#     credentialname: NVidia 
+#     details: |
+#       Hands-on workshop on training deep learning models from scratch.
+#   # - name: Git learning
+#   #   start: 2019
+#   #   end:
+#   #   organization: Microsoft
+#   #   credentialid: 111-222
+#   #   credentialurl: www.github.com
+#   #   credentialname: Github
+#   #   details: |
+#   #     Older certification. Lorem ipsum dolor sit amet, consectetur
+#   #     adipiscing elit.
 
 
 projects:
