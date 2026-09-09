@@ -98,7 +98,7 @@ p {
       vertical-align: left;
     }
     li {
-      margin-bottom: 15px;
+      margin-bottom: 1; /* 1 or 15 */
       &:last-child {
         margin-bottom: 0;
       }
