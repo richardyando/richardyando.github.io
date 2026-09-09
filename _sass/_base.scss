@@ -93,12 +93,12 @@ p {
     .fas,
     .fab,
     .far {
-      margin-right: 1px; /* 12 or 14 */
+      margin-right: 0px; /* 0 or 14 */
       font-size: 13px; /* 12 or 14 */
       vertical-align: left;
     }
     li {
-      margin-bottom: 15; /* 1 or 15 */
+      margin-bottom: 15;
       &:last-child {
         margin-bottom: 0;
       }
