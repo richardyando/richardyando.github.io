@@ -3,8 +3,8 @@ body {
   font-family: "Arial", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
-  font-size: 12px; /* 12 or 14 */
-  padding: 20px; /* 20 or 30 */
+  font-size: 14px; /* 12 or 14 */
+  padding: 15px; /* 15 or 30 */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -66,7 +66,7 @@ p {
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
-    font-size: 12px; /* always 14 */
+    font-size: 14px; /* always 14 */
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 0;
@@ -93,8 +93,8 @@ p {
     .fas,
     .fab,
     .far {
-      margin-right: 5px;
-      font-size: 12px; /* 12 or 14 */
+      margin-right: 3px; /* 12 or 14 */
+      font-size: 14px; /* 12 or 14 */
       vertical-align: left;
     }
     li {
@@ -105,23 +105,23 @@ p {
     }
   }
   .container-block {
-    padding: 50px;  /* 30 or 50 */
+    padding: 30px;  /* 30 or 50 */
   }
   .container-block-title {
     text-transform: uppercase;
-    font-size: 13px; /* 14 or 18 */
+    font-size: 14px; /* 14 or 18 */
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 15px; 
   }
   .degree {
-    font-size: 12px; /* 12 or 14 */
+    font-size: 14px; /* 12 or 14 */
     margin-top: 0;
     margin-bottom: 0px; /* 0 or 12 */
   }
   .education-container {
     .item {
-      margin-bottom: 12px; /* 12 or 14 */
+      margin-bottom: 14px; /* 12 or 14 */
       &:last-child {
         margin-bottom: 0; /* 0 or 12 */
       }
@@ -147,9 +147,9 @@ p {
   .languages-list {
     margin-bottom: 100;
     li {
-      margin-bottom: 12px; /* 12 or 14 */
+      margin-bottom: 14px; /* 12 or 14 */
       &:last-child {
-        margin-bottom: 12; /* 0 or 12 */
+        margin-bottom: 14; /* 0 or 14 */
       }
     }
   }
@@ -157,7 +157,7 @@ p {
   .interests-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 12px; /* 12 or 14 */
+      margin-bottom: 14px; /* 12 or 14 */
       &:last-child {
         margin-bottom: 0;
       }
@@ -167,7 +167,7 @@ p {
   .hobby-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 12px;/* 12 or 14 */
+      margin-bottom: 14px;/* 12 or 14 */
       &:last-child {
         margin-bottom: 0;
       }
@@ -182,7 +182,7 @@ p {
   padding: 20px; /* 30 or 60 */
   .section-title {
     text-transform: uppercase;
-    font-size: 15px; /* 14 or 18 */
+    font-size: 14px; /* 14 or 18 */
     font-weight: 500;
     color: darken($theme-color, 15%);
     position: relative;
@@ -231,15 +231,15 @@ p {
   .recommendation-role,
   .university,
   .cert-org {
-    margin-bottom: 12px; /* 12 or 14 */
+    margin-bottom: 14px; /* 12 or 14 */
     color: $text-grey;
   }
 
   .project-title {
-    font-size: 12px; /* 12 or 14 */
+    font-size: 14px; /* 12 or 14 */
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 12px; /* 12 or 14 */
+    margin-bottom: 14px; /* 12 or 14 */
     color: darken($theme-color, 15%);
   }
   .projects-section {
@@ -247,7 +247,7 @@ p {
       margin-bottom: 30px;/* 12 or 14 */
     }
     .item {
-      margin-bottom: 12px;/* 12 or 14 */
+      margin-bottom: 14px;/* 12 or 14 */
     }
   }
   .oss-section {
@@ -255,12 +255,12 @@ p {
       margin-bottom: 30px;
     }
     .item {
-      margin-bottom: 12px;/* 12 or 14 */
+      margin-bottom: 14px;/* 12 or 14 */
     }
   }
 
   .publication-title {
-    font-size: 12px; /* 12 or 14 */
+    font-size: 14px; /* 12 or 14 */
     font-weight: 400;
     color: $text-color;
     margin-bottom: 1px;
@@ -282,13 +282,13 @@ p {
 
 .skillset {
   .item {
-    margin-bottom: 12px; /* 12 or 14 */
+    margin-bottom: 14px; /* 12 or 14 */
     overflow: hidden;
   }
   .level-title {
-    font-size: 12px; /* 12 or 14 */
+    font-size: 14px; /* 12 or 14 */
     margin-top: 0;
-    margin-bottom: 12px;
+    margin-bottom: 14px;
   }
   .level-bar {
     height: 12px; /* 12 or 14 */
@@ -301,7 +301,7 @@ p {
 }
 
 .footer {
-  padding-top: 15px; /* 15 or 30 */
+  padding-top: 30px; /* 15 or 30 */
   .copyright {
     line-height: 1.6;
     color: $text-color-secondary;
