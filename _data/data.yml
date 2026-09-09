@@ -210,9 +210,9 @@ oss:
   #   link: "#"
   #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  # - title: RNA HANDCUFFS AND METHODS OF USE
-  #   # link: "#"
-  #   tagline: PWG/PA/2423/7/2026. Filed on 3 July 2026.
+  - title: RNA HANDCUFFS AND METHODS OF USE
+    # link: "#"
+    tagline: PWG/PA/2423/7/2026. Filed on 3 July 2026.
 
 publications:
   title: Selected Publications
@@ -280,14 +280,13 @@ skills:
   - name: Molecular Biology
     level: 90%
 
-  - name: Python & HPC
+  - name: Mouse handling
     level: 80%
 
-  - name: Mouse handling
-    level: 70%
-
   - name: Pymol & protein modeling
-    level: 60%
-
+    level: 70%
+    
+  # - name: Python & HPC
+  #   level: 60%
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
