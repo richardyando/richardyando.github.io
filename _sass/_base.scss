@@ -123,13 +123,13 @@ p {
     .item {
       margin-bottom: 14px; /* 12 or 14 */
       &:last-child {
-        margin-bottom: 10; /* 0 or 12 */
+        margin-bottom: 0; /* 0 or 12 */
       }
     }
     .meta {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
-      margin-bottom: 10px; /* 0 or 12 */
+      margin-bottom: 0px; /* 0 or 12 */
       margin-top: 0;
     }
     .time {
