@@ -109,7 +109,7 @@ p {
   }
   .container-block-title {
     text-transform: uppercase;
-    font-size: 13px; /* 14 or 18 */
+    font-size: 14px; /* 14 or 18 */
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 15px; 
@@ -282,7 +282,7 @@ p {
 
 .skillset {
   .item {
-    margin-bottom: 14px; /* 12 or 14 */
+    margin-bottom: 2px; /* 2 or 14 */
     overflow: hidden;
   }
   .level-title {
@@ -301,7 +301,7 @@ p {
 }
 
 .footer {
-  padding-top: 30px; /* 15 or 30 */
+  padding-top: 1x; /* 1 or 30 */
   .copyright {
     line-height: 1.6;
     color: $text-color-secondary;
